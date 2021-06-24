@@ -15,7 +15,6 @@
 ## Description 
 
 
-
 ## Screenshots
 ![alt text](public/images/final-page-1.png)
 ![alt text](public/images/final-page-2.png)
@@ -38,4 +37,4 @@ THEN that will be shown on the page, and added to their transaction history when
 
 
 ## Deployed Application URL 
-[Fitness Tracker](https://fitness-tracker-app-deployed.herokuapp.com)
+[Progressive Budget](https://progressive-budget-deployed.herokuapp.com/)
