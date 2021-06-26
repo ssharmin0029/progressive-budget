@@ -13,11 +13,14 @@
 
 
 ## Description 
+This Budget Tracker app allows for offline access and functionality. The user is able to to add expenses and deposists to their budget with or without a connection. 
 
 
 ## Screenshots
 ![alt text](public/images/final-page-1.png)
 ![alt text](public/images/final-page-2.png)
+![alt text](public/images/final-page-3.png)
+![alt text](public/images/final-page-4.png)
 
 
 ## User Story 
